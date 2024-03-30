@@ -27,6 +27,8 @@ CREATE TABLE employee(
                       
 Desc employee;
 
+SHOW TABLES;
+
 INSERT INTO employee(id, name, salary, department_id)
 			VALUES(1, 'John Smith',60000,1),
 (2, 'Jane Doe',70000,2),
